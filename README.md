@@ -26,7 +26,6 @@ https://drive.google.com/drive/folders/1Lvk_SOfKdjdqvWVpz4xfwD2kJhexGrvE
 
 <img width="1087" height="480" alt="image" src="https://github.com/user-attachments/assets/e4d2a487-da61-49d1-bf4d-15fbe0eff201" />
 
-<img width="668" height="655" alt="image" src="https://github.com/user-attachments/assets/8dd1f31a-d732-4387-819a-89d0b6355e58" />
 
 <img width="958" height="672" alt="image" src="https://github.com/user-attachments/assets/007f307e-62ef-48aa-82e1-963dfbe4b8b8" />
 
